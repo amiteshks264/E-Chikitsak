@@ -1,0 +1,39 @@
+.pg-cntr{
+  margin: 2px;
+  padding: 5px;
+  min-width: 30%;
+  min-height: 20%;
+  width: auto;
+  height: auto;
+}
+
+.card{
+  max-width: 18rem;
+  border: 2px rgb(5, 170, 41) solid;
+}
+
+.card-title, .card-text{
+  color: black;
+}
+
+.card-header{
+  background-color:beige;
+  font-weight: bold;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size:x-large;
+}
+
+.card-body{
+  background-color:rgb(255, 255, 255);
+  color: black;
+}
+
+.card-footer{
+  background-color:rgb(255, 255, 255);
+  color: black;
+}
+
+.completed{
+  background-color:rgb(12, 255, 125);
+  color: rgb(54, 10, 107);
+}

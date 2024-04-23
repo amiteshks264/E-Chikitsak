@@ -1,0 +1,37 @@
+.page-cntr{
+    background-color: #dffeff;
+    min-height: 100vh;
+    height: auto;
+    width: 100vw;
+}
+
+.details{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: 100%;
+}
+
+.cards-container{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+.header{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 183, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.headname{
+    font-weight: bold;
+}
+
+.page-heading{
+    font-weight: bold;
+    border-bottom: 3px solid rgb(94, 2, 2);
+}

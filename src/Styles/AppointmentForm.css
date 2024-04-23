@@ -1,0 +1,48 @@
+
+.heading{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#Form-page-heading{
+    color:rgb(11, 127, 173);
+    align-self: center;
+    font-weight: bold;
+    font-size: 4rem ;
+    margin: 0px;
+    padding: 0px;
+}
+#plus{
+    color: rgb(92, 245, 92);
+    font-weight: bold;
+}
+
+.form-content{
+    background-color: rgb(201, 231, 243);
+    height: auto;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+.star, .errorMessage{
+    color: rgb(255, 0, 0);
+    font-weight: lighter;
+}
+
+h2{
+    font-weight: bold;
+}
+
+.Form-heading{
+    color: black;
+    border-bottom: 2px maroon solid;
+}
+
+.bottommsg{
+    padding-bottom: 5px;
+    margin-bottom: 1px;
+}
